@@ -14,4 +14,4 @@
 
 
 3. 辅助
-    * python写个方便调试的工具
+    * [python写个方便调试的工具](https://github.com/YG-FLUSH/nebulas-deploy)
